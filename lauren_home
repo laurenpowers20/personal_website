@@ -1,13 +1,28 @@
 <!DOCTYPE html>
 	<html>
-	<link rel="stylesheet" type="text/css" href="lauren_home.css">
+	<link rel="stylesheet" type="text/css" href="styles/lauren_home.css">
 	<head>
 		<title>
 			Lauren Powers
 		</title>
 	</head>
 	<body>
-	<h1>Lauren Powers</h2>
+		
+
+		<div class="header"><h1>Lauren Powers</h2></div>
+
+		<div class="left">
+			<a href="about.html">About Lauren</a>
+			<a href="travel.html">Travel</a>
+			<a href="contact.html">Contact & Social Media</a>
+
+		 </div>
+
+		<div class="right">
+			 <h2>This is an interactive website about Lauren Powers!</h2> 
+			 
+
+		</div>
 
 
 	</body>
