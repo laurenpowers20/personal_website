@@ -1,0 +1,42 @@
+body {
+	background-image: url(../images/background.jpg);
+	background-repeat: no-repeat;
+	background-size: cover;
+	font-family: sans-serif;
+	background-position: fixed;
+}
+
+a {
+	color: white;
+	text-decoration: none
+}
+
+
+a:hover {
+	text-decoration: underline;
+}
+
+.header {
+	font-size: 50px;
+	color: black;
+	height: 75px;
+	width: 100%;
+	text-align: center;
+	clear:both;
+
+}
+
+.right {
+	background-color: white;
+	float:center;
+	clear:both;
+	padding-right: 33%;
+	padding-left: 33%;
+}
+
+.footer {
+	text-align: center;
+	font-size: 25px;
+
+}
+

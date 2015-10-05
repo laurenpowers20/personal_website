@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 	<html>
-	<link rel="stylesheet" type="text/css" href="styles/lauren_home.css">
 	<head>
+		<link rel="stylesheet" type="text/css" href="styles/lauren_home.css">
 		<title>
 			Lauren Powers
 		</title>
@@ -9,20 +9,20 @@
 	<body>
 		
 
-		<div class="header"><h1>Lauren Powers</h2></div>
+		<div class="header">Lauren Powers</div>
 
 		<div class="left">
-			<a href="about.html">About Lauren</a>
-			<a href="travel.html">Travel</a>
-			<a href="contact.html">Contact & Social Media</a>
+			<p><a href="about.html">About Lauren</a></p>
+			<p><a href="travel.html">Travel</a></p>
+			<p><a href="contact.html">Contact & Social Media</a></p>
 
 		 </div>
 
 		<div class="right">
-			 <h2>This is an interactive website about Lauren Powers!</h2> 
-			 
-
+			<h2>An Interactive Website About Lauren Powers</h2>
+			<h4> Navigate to the right </h4>
 		</div>
+
 
 
 	</body>
