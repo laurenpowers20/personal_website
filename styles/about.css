@@ -12,6 +12,7 @@ a {
 }
 
 
+
 a:hover {
 	text-decoration: underline;
 }
@@ -32,7 +33,9 @@ a:hover {
 	clear:both;
 	padding-right: 33%;
 	padding-left: 33%;
+
 }
+
 
 .footer {
 	text-align: center;
