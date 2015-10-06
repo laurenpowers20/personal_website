@@ -11,8 +11,6 @@ a {
 	text-decoration: none
 }
 
-
-
 a:hover {
 	text-decoration: underline;
 }
@@ -24,8 +22,16 @@ a:hover {
 	width: 100%;
 	text-align: center;
 	clear:both;
-
 }
+
+
+.body {
+	position: center;
+	text-align: left;
+	margin-right: 25%;
+	margin-left: 25%;
+}
+
 
 .right {
 	background-color: white;

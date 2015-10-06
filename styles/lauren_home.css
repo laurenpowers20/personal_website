@@ -13,6 +13,11 @@ img {
 	border: solid-black;
 }
 
+li {
+	list-style-type: none;
+
+}
+
 a {
 	color: white;
 	text-decoration: none

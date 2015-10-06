@@ -10,9 +10,21 @@ a {
 	text-decoration: none
 }
 
+
 a:hover {
 	text-decoration: underline;
 }
+
+ img {
+        position: relative;
+        width: 200px;
+      }
+div {
+	float: left;
+	margin-right: 5px;
+	margin-left: 5px;
+}
+
 
 .header {
 	font-size: 50px;
@@ -25,12 +37,17 @@ a:hover {
 
 .left {
 	position: fixed;
-	width: 75px;
+	width: 150px;
 	height: 500px;
 	text-align: left;
-	padding-top: 25px;
-	padding-right: 25px;
 	font-size: 30px;
+
+}
+
+li {
+
+	list-style-type: none;
+	padding: 5px;
 
 }
 
@@ -46,10 +63,7 @@ a:hover {
 
 }
 
-.footer	{
-	text-align: center;
-}
-
 .right h4 {
 	font-size: 15px;
 }
+

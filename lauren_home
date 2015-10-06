@@ -12,9 +12,13 @@
 		<div class="header">Lauren Powers</div>
 
 		<div class="left">
-			<p><a href="about.html">About Lauren</a></p>
-			<p><a href="travel.html">Travel</a></p>
-			<p><a href="contact.html">Contact & Social Media</a></p>
+		<nav>
+				<ul>
+					<li><a href="about.html">About Lauren</a></li>
+					<li><a href="travel.html">Travel</a></li>
+					<li><a href="contact.html">Contact & Social Media</a></li>
+				</ul>
+		</nav>
 
 		 </div>
 
